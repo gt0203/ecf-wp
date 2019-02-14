@@ -19,10 +19,25 @@ Text Domain:  twenty-seventeen-child
 }
 
 .search-submit {
-    color: blue !important;
-}
-
-.entry-date {
     color: red !important;
 }
 
+.entry-date {
+    color: blue !important;
+}
+
+a:hover {
+    color: white !important;
+}
+
+a {
+    color: blue !important;
+}
+
+p {
+    color: red !important;
+}
+
+.entry-title {
+    color: white !important;
+}
