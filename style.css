@@ -14,3 +14,7 @@ Text Domain:  twenty-seventeen-child
     background-color: black;
 }
 
+.widget-title {
+    color: blue !important;
+}
+
