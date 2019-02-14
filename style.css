@@ -1,0 +1,16 @@
+/*
+Theme Name:   Twenty Seventeen Child
+Template:     twentyseventeen
+Description:  Twenty Seventeen Child Theme
+Author:       Thomas Gerard
+Author URI:   http://thomas-gerard.fr
+Version:      1.0.0
+License:      GNU General Public License v3 or later
+License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain:  twenty-seventeen-child
+*/
+
+.wrap {
+    background-color: black;
+}
+
